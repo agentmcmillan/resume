@@ -1,0 +1,97 @@
+Ride Control Hardware Engineer
+APPLY NOWApply Later
+Job ID 10062103
+Location Glendale, California, United States
+Business Walt Disney Imagineering
+Date posted Sep. 12, 2023
+Job Summary:
+“We make the magic!”  That’s our motto at Walt Disney Imagineering, the 
+arm of The Walt Disney Company that creates key content for Disney Parks, 
+Experiences, and Products all around the world.
+
+Ride Control Hardware Engineers work within WDI’s Ride Studio in a highly 
+collaborative environment on diverse teams.  Engineering activities cover 
+all aspects of control system design and implementation, from concept to 
+commissioning, for a wide variety of innovative ride platforms.
+
+Responsibilities:
+Manage programmable, electrical, and electronic hardware scope to design 
+and deliver control systems for complex, innovative ride systems.
+
+Perform engineering design and analysis for ride systems, focusing on 
+electrical control systems.
+
+Develop control system and network architectures.
+
+Design, model, and analyze electrical supply systems.
+
+Research new products, technologies, and methodologies.
+
+Lead a team of ride control engineers and collaborate with other 
+professionals to develop ride control systems.
+
+Develop control equipment requirements and specifications.
+
+Develop and implement proof-of-concept mock-ups and prototypes.
+
+Conduct hazard assessments and failure modes and effects analysis.
+
+Manage vendors, contractors, and consultants developing and implementing 
+ride control systems.
+
+Define and oversee supplier and consultant design and delivery.
+
+Ensure all delivery and performance requirements are satisfied.
+
+Conduct factory acceptance tests and ride system installation.
+
+Basic Qualifications:
+Experienced in fail-safe and safety-related control system design
+
+Extensive knowledge of control processors, components, and communication 
+networks
+
+Highly proficient in industrial control system installation, integration, 
+and commissioning
+
+Solid understanding of communication protocols: TCP/IP, CAN, serial, 
+ProfiNET, Ethernet/IP, EtherCAT
+
+Extensive knowledge of electrical design standards and codes, including 
+UL508a and NEC
+
+Familiarity with amusement and automation industry standards, including 
+ASTM F2291
+
+Expertise in motor and motion control methods and components
+
+Ability to travel domestically and internationally for 1-week to 3-year 
+durations
+
+Ability to handle multiple complex efforts simultaneously, coordinate team 
+efforts, and manage tasks and priorities
+
+Preferred Qualifications:
+Licensed professional engineer
+
+Proficient with engineering design tools including AutoCAD, Matlab, 
+Simulink, Solidworks, EPLAN
+
+Proficient in Rockwell and Siemens automation systems architecture and 
+components
+
+Electrical and troubleshooting skills (voltmeter, oscilloscope, etc.)
+
+Knowledge of international amusement industry standards applicable in 
+France, Hong Kong, or China
+
+Required Education:
+Bachelor of Science Degree in an engineering field from an accredited 
+university
+
+Electrical engineering degree highly preferred
+
+This posting is a talent pool for upcoming roles within Walt Disney 
+Imagineering - Ride Engineering. We will be considering talent from within 
+this pool to fill multiple levels (e.g. Associate, Staff, Senior and 
+Principal). 
